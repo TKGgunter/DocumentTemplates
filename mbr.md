@@ -9,6 +9,8 @@ Describe the team's objectives for year. Goals should be well defined and echoed
 This section should contains the business developments that can be justified as wins. 
 Improvements to process, product as well as customer onboards all fall within the topic.
 Don't be afraid to call out caveats here. Sun shine and rainbows make it difficult to make decisions.
+The section is organized as a set of short lists summarizing the above.
+
 
 ## Misses, risks and dogs not barking
 Bullets here should provide visibility and leverage from upper management are needed here.
@@ -24,3 +26,9 @@ See goals section.
 
 ## Appendix
 Adoption metrics, service health metrics, road map, operation costs, .
+
+NOTE:
+- Short names for project ideas.
+  - If there is a set of over arching themes in the projects, and there should be the prefix of the short hand should be the same.
+  - The post-fix indicates the specific project
+- Calendar of product GA dates
