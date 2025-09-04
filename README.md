@@ -12,3 +12,5 @@ Next update the local git url repo.
 https://github.com/TKGgunter/DocumentTemplates.git
 git remote set-url origin git@github.com:TKGgunter/DocumentTemplates.git
 ```
+
+CR contributions: https://github.com/tokio-rs/tokio/blob/master/CONTRIBUTING.md
