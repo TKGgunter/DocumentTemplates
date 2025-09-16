@@ -1,4 +1,9 @@
 # Design doc
+Visibility (Public|Confidential)
+Author(s): List sorted alphabetically
+**Change History** (Not this could be replaced by github for doc reviews)
+Table of Date and Summary of Major change and who reviewed.
+
 ## Outline
 
 - Background and Motivation
