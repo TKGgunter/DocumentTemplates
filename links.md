@@ -9,3 +9,7 @@
     - thinning paper to increase the efficiency of ocr algos  
 - https://github.com/robertknight/ocrs?tab=readme-ov-file#models-and-datasets
     - rust ocr
+- local python docs
+    - `python -m pydoc -b`
+- COE
+    - https://aws.amazon.com/blogs/mt/why-you-should-develop-a-correction-of-error-coe/
