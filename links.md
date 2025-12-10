@@ -17,3 +17,4 @@
     - https://paddle.com/
 - eBPF docs
     - https://docs.ebpf.io/linux/
+    - https://aya-rs.dev/book/start/parsing-packets.html
