@@ -11,5 +11,7 @@
     - rust ocr
 - local python docs
     - `python -m pydoc -b`
-- COE
+- Corrections of Errors (COE)
     - https://aws.amazon.com/blogs/mt/why-you-should-develop-a-correction-of-error-coe/
+- Paddle payment processor
+    - https://paddle.com/
