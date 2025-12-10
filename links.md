@@ -18,3 +18,5 @@
 - eBPF docs
     - https://docs.ebpf.io/linux/
     - https://aya-rs.dev/book/start/parsing-packets.html
+- fgc stuff
+    - https://upsets.gg/guilty-gear-strive/rankings
