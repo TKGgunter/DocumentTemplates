@@ -20,3 +20,8 @@
     - https://aya-rs.dev/book/start/parsing-packets.html
 - fgc stuff
     - https://upsets.gg/guilty-gear-strive/rankings
+
+
+# Read later
+- antropic ai
+    - https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
