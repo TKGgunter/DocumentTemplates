@@ -20,6 +20,8 @@
     - https://aya-rs.dev/book/start/parsing-packets.html
 - fgc stuff
     - https://upsets.gg/guilty-gear-strive/rankings
+- linux kernel stuffs
+    - https://docs.kernel.org/admin-guide/pm/cpuidle.html
 
 
 # Read later
