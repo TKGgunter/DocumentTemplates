@@ -12,6 +12,7 @@ to copy and pasted in needed detail.
 <Alarm code link> as of <date written>.
 **Metric:** <Metric Name>
 **Alarm Threshold:** <{gt|lt|eq} # Value>
+**Example Link:** <link>
 <Describe the intent of the alarm, what it means for the service and how it impacts customers.>
 
 ## Remediation
