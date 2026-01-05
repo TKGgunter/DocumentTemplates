@@ -1,6 +1,8 @@
 # Dashboards
 
-Dashboards are a window into our service which, like a window, can be used to ascertain the current state of the service, direct user investigations, without providing granular information.
+Dashboards are a window into our service. Like a window, can be used to
+ascertain the current state of the neighborhood, direct user investigations,
+without providing granular information.
 
 Dashboard: {
     graph: {
@@ -25,3 +27,11 @@ Dashboard: {
  │    └────────────────────────────────────────┘  └────────────────────────────────────────────────────────────────────────────────────┘      │            
  │                                                                                                                                            │            
  └────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘            
+
+
+Dashboards should also be readily available. If the dashboard is for a live
+service it should be live and easily available. Note, not all dashboards are
+equal. Some dashboards are for ourselves. Some are for customers. Think about
+the audience as you develop the dashboards. Secondary note, internal dashboards
+do not mean bad or poor quality dashboards. The better the tool the happier the
+dev.
