@@ -7,7 +7,7 @@ to copy and pasted in needed details.
 ## Alarms
 
 ```
-# <Alarm Title>
+# <Alarm Name - follow Alarms.md>
 ## Definition
 <Alarm code link> as of <date written>.
 **Metric:** <Metric Name>

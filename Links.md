@@ -22,6 +22,10 @@
     - https://upsets.gg/guilty-gear-strive/rankings
 - linux kernel stuffs
     - https://docs.kernel.org/admin-guide/pm/cpuidle.html
+- google things I learned
+    - https://addyosmani.com/blog/21-lessons/
+- re-sampler
+    - https://github.com/predict-idlab/plotly-resampler
 
 
 # Read later
