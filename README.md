@@ -14,3 +14,29 @@ git remote set-url origin git@github.com:TKGgunter/DocumentTemplates.git
 ```
 
 CR contributions: https://github.com/tokio-rs/tokio/blob/master/CONTRIBUTING.md
+
+
+---
+*Here are some helpful tools when writing docs*
+
+
+This is a footnote[^1].
+
+[^1]: Comment reference
+
+> [!NOTE]
+> example
+
+
+> [!TIP]
+> example 
+
+> [!IMPORTANT]
+> Example
+
+> [!CAUTION]
+> example
+
+[Comments to the writer]: <> (
+This is the note
+)
