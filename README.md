@@ -17,7 +17,7 @@ CR contributions: https://github.com/tokio-rs/tokio/blob/master/CONTRIBUTING.md
 
 
 ---
-*Here are some helpful tools when writing docs*
+*Here are some helpful tools when writing docs in markdown. This follows github extension*
 
 
 This is a footnote[^1].
