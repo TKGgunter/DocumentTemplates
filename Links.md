@@ -37,3 +37,5 @@
     - https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 - bench mark ripgrep
     - https://burntsushi.net/ripgrep/
+- markdown stuff
+    - https://daringfireball.net/projects/markdown/syntax#link

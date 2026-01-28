@@ -37,6 +37,10 @@ This is a footnote[^1].
 > [!CAUTION]
 > example
 
-[Comments to the writer]: <> (
-This is the note
+
+> The following will not show up when rendered.
+[comment]: <> (
+This is a comment to the writter.
 )
+
+[tag]: <> (#tag1, #tag2, #tag3)
