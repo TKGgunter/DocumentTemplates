@@ -58,7 +58,7 @@ In the future I would like to extend markdown to do the following
 Custom ids to headers
 
 
-[test][#header]
+[test](#header)
 
 ## Definition lists
 Term1
