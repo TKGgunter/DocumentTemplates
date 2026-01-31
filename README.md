@@ -52,13 +52,14 @@ This is a comment to the writter.
 
 ![tux mascot](https://en.wikipedia.org/wiki/File:Ccpenguin,_the_ancestor_of_Tux.jpg)
 
+[Link to header in text ](#header-1)
+
 ---
 In the future I would like to extend markdown to do the following
-# Header
+# Header 1
 Custom ids to headers
 
 
-[test](#header)
 
 ## Definition lists
 Term1
