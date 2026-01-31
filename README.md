@@ -3,9 +3,11 @@ A Repo for document templates
 
 Use [grip](https://pypi.org/project/grip/) to render the markdown.
 
-If you clone this repository double check the git url. If the repo is linked to the http url you will have trouble pushing updates to the repo.
-Check the ssh key on your device and compare it to the key in github. If they are not the same you'll need to add it.
-Next update the local git url repo.
+If you clone this repository double check the git url. If the repo is linked to
+the http url you will have trouble pushing updates to the repo. Check the ssh
+key on your device and compare it to the keys in github. If they are not the
+same you'll need to add it.
+After adding your key update the local git url repo using the following command:
 
 ```bash
 -> git remote  get-url --all origin
@@ -17,25 +19,29 @@ CR contributions: https://github.com/tokio-rs/tokio/blob/master/CONTRIBUTING.md
 
 
 ---
-*Here are some helpful tools when writing docs in markdown. This follows github extension*
+
+The templates in this repo are written in github extended markdown.  The
+following are useful tools when writing documents.
+
 
 
 This is a footnote[^1].
 
-[^1]: Comment reference
+[^1]: This is the reference note for the footnote.
+
 
 > [!NOTE]
-> example
+> Here we tag this quote block as a note.
 
 
 > [!TIP]
-> example 
+> Here it's tagged as a tip.
 
 > [!IMPORTANT]
-> Example
+> This is very important.
 
 > [!CAUTION]
-> example
+> You could be careful when reading this one.
 
 
 > The following will not show up when rendered.
@@ -44,4 +50,23 @@ This is a footnote[^1].
 This is a comment to the writter.
 )
 
+---
+In the future I would like to extend markdown to do the following
+# Header {#custom-id}
+Custom ids to headers
+
+## Definition lists
+Term1
+: definition for term1.
+
+Term2
+: definition for term2.
+
+
 [tag]: <> (#tag1, #tag2, #tag3)
+
+
+
+
+
+
