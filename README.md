@@ -50,10 +50,15 @@ This is a footnote[^1].
 This is a comment to the writter.
 )
 
+![tux mascot](https://en.wikipedia.org/wiki/File:Ccpenguin,_the_ancestor_of_Tux.jpg)
+
 ---
 In the future I would like to extend markdown to do the following
-# Header {#custom-id}
+# [Header]{#custom-id}
 Custom ids to headers
+
+## [Custom Id]
+test
 
 ## Definition lists
 Term1
@@ -63,14 +68,13 @@ Term2
 : definition for term2.
 
 
+This will not render in github but if I made my own tool is block would be auto rendered.
 ```d2
 a->b
 ```
 
-[tag]: <> (#tag1, #tag2, #tag3)
-
-
-
+Adding tags to documents without rendering them.
+[tags]: # (#tag1 #tag2 #tag3)
 
 
 
