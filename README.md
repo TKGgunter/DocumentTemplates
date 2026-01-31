@@ -50,7 +50,7 @@ This is a footnote[^1].
 This is a comment to the writter.
 )
 
-![tux mascot](https://en.wikipedia.org/wiki/File:Ccpenguin,_the_ancestor_of_Tux.jpg)
+![some image](https://mdn.github.io/shared-assets/images/examples/star-white_16x16.png)
 
 [Link to header in text ](#header-1)
 
