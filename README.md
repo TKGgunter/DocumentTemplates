@@ -49,6 +49,12 @@ This is a footnote[^1].
 [//]: # (
 This is a comment to the writter.
 )
+Term1
+: definition for term1.
+: asf
+
+Term2
+: definition for term2.
 
 ---
 In the future I would like to extend markdown to do the following
@@ -56,11 +62,6 @@ In the future I would like to extend markdown to do the following
 Custom ids to headers
 
 ## Definition lists
-Term1
-: definition for term1.
-
-Term2
-: definition for term2.
 
 
 [tag]: <> (#tag1, #tag2, #tag3)
