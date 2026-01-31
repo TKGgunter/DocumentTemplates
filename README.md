@@ -39,6 +39,7 @@ This is a footnote[^1].
 
 
 > The following will not show up when rendered.
+
 [//]: # (
 This is a comment to the writter.
 )
