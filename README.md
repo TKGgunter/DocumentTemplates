@@ -54,11 +54,11 @@ This is a comment to the writter.
 
 ---
 In the future I would like to extend markdown to do the following
-# [Header]{#custom-id}
+# Header
 Custom ids to headers
 
-## [Custom Id]
-test
+
+[test][#header]
 
 ## Definition lists
 Term1
