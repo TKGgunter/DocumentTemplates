@@ -33,9 +33,14 @@
 
 
 # Read later
-- antropic ai
-    - https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-- bench mark ripgrep
-    - https://burntsushi.net/ripgrep/
-- markdown stuff
-    - https://daringfireball.net/projects/markdown/syntax#link
+antropic ai:
+    https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+
+bench mark ripgrep:
+    https://burntsushi.net/ripgrep/
+
+markdown stuff:
+    https://daringfireball.net/projects/markdown/syntax#link
+
+ghostty memory bug
+    https://mitchellh.com/writing/ghostty-memory-leak-fix
