@@ -15,8 +15,13 @@ to copy and pasted in needed details.
 **Example Link:** <link>
 <Describe the intent of the alarm, what it means for the service and how it impacts customers. Be brief. Oncalls want context and the ability to determine priority not a novella. >
 
+## Context
+<details>
+< Provide historical context here. This can be as long and verbose as you would like. This is ok because it's hidden.>    
+</details>
+
 ## Remediation
-<Provide a step by step guide to investigating and addressing the issue.>
+<!-- Provide a step by step guide to investigating and addressing the issue. -->
 
 """
 Example:
@@ -25,10 +30,6 @@ Example:
         1. ...
 ...
 
-## Context
-<details>
-< Provide historical context here. This can be as long and verbose as you would like. This is ok because it's hidden.>    
-</details>
 """
 ```
 Alarms are important indicators of service failure. It is important to be able to move quickly and address the service impact when an alarm is triggered. To do so Alarm runbooks must be clear and too the point.

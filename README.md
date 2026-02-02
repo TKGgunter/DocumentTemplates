@@ -80,3 +80,32 @@ Adding tags to documents without rendering them.
 
 
 
+=======
+[tags]: <> (#tag1, #tag2, #tag3)
+
+For large unwieldy tables use asciidoc syntax to render
+**Example:**
+```asciidoc
+[cols="1,1"]
+|===
+| Column Name 1 | Column Name 2
+
+| Some data
+| Some data in 2
+|===
+```
+
+> [!NOTE]
+> use `pandoc -f asciidoc -t markdown` to convert to markdown
+
+
+
+> [!TODO]
+> Create a tool that can transform asciidoc tables into markdown to compile the
+> document for rendering.
+
+---
+
+give llm access to lsp
+
+give llm access to bash using a special least privileged user
