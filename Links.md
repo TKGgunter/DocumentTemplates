@@ -44,3 +44,7 @@ markdown stuff:
 
 ghostty memory bug
     https://mitchellh.com/writing/ghostty-memory-leak-fix
+
+gnuplot:
+    https://ctcms-uq.github.io/data_tutorials/gnuplot.html
+
