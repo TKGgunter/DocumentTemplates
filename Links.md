@@ -48,3 +48,5 @@ ghostty memory bug
 gnuplot:
     https://ctcms-uq.github.io/data_tutorials/gnuplot.html
 
+XDG Desktop Portal
+    https://flatpak.github.io/xdg-desktop-portal/docs/index.html

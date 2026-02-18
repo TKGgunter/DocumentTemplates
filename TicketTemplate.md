@@ -3,10 +3,13 @@
 ## Description
 
 ### Problem
-[comment]: <> (Describe the problem succinctly. Provide details relevant to to assigned operator.)
+[comment]: <> (Describe the problem succinctly. Provide details relevant to to
+assigned operator.)
 
 ### Action Items
-[comment]: <> (Provide a list of action items that the operator should take to remediate the issue. Describe how the operator should document results of their actions.)
+[comment]: <> (Provide a list of action items that the operator should take to
+remediate the issue. Describe how the operator should document results of their
+actions.)
 
 ### Validation
 [comment]: <> (
