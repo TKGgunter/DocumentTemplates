@@ -4,20 +4,24 @@ This article contains a collection of notes on writing
 runbooks. It is organized as a template, from which the reader should be able
 to copy and pasted in needed details.
 
+
 ## Alarms
 
-```
+```template
 # <Alarm Name - follow Alarms.md>
 ## Definition
 <Alarm code link> as of <date written>.
 **Metric:** <Metric Name>
 **Alarm Threshold:** <{gt|lt|eq} # Value>
 **Example Link:** <link>
-<Describe the intent of the alarm, what it means for the service and how it impacts customers. Be brief. Oncalls want context and the ability to determine priority not a novella. >
+<Describe the intent of the alarm, what it means for the service and how it
+impacts customers. Be brief. Oncalls want context and the ability to determine
+priority not a novella. >
 
 ## Context
 <details>
-< Provide historical context here. This can be as long and verbose as you would like. This is ok because it's hidden.>    
+< Provide historical context here. This can be as long and verbose as you would
+like. This is ok because it's hidden.>    
 </details>
 
 ## Remediation
@@ -32,17 +36,22 @@ Example:
 
 """
 ```
-Alarms are important indicators of service failure. It is important to be able to move quickly and address the service impact when an alarm is triggered. To do so Alarm runbooks must be clear and too the point.
+Alarms are important indicators of service failure. Once a ticket is cut one
+should be able to move quickly and address the service impact when an alarm is
+triggered. To do so runbooks must be clear and too the point.
 
 
 > **Ideas for the future:**
 > I would love to keep everything in one place. If the alarms runbook were
-> generated from the code that creates the alarms it might be more likely that
-> the documentation stays up to date. A potential benefit of "localization".
+> generated from the code that creates the alarms it might be more likely for
+> the documentation to stay up to date.
+>
+> Alternatively, using AI to check documentation every time alarms for
+> infrastructure is changed might solve this problem.
 
 
 ## Service Spin up
-```
+```template
 # <Step Name>
 < high level description what will be accomplish during the step. Just enough to provide context, no more>
 1. List each sub step summary, in a one sentence summary.
