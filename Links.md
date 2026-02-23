@@ -30,6 +30,10 @@
     - https://doaj.org/
     - https://core.ac.uk/
     - https://arxiv.org/
+- rust-sdk rmcp
+    - https://github.com/modelcontextprotocol/rust-sdk
+- mcp repository
+    - https://www.pulsemcp.com/posts/newsletter-background-coding-agents-agent-blocking-begins-openai-frontier
 
 
 # Read later
