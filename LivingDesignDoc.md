@@ -1,11 +1,15 @@
-# Design doc
-Visibility (Public|Confidential)
-Author(s): List sorted alphabetically
+# Design Doc metadata:
+
+visibility: <(public|confidential)>
+author(s): <single author or List sorted alphabetically>
+tags: <list of tags>
+
+# Title
+
 **Change History** (Not this could be replaced by github for doc reviews)
 Table of Date and Summary of Major change and who reviewed.
 
 ## Outline
-
 - Background and Motivation
 - High/Low Level Design
     > Because this is a living document include each draft revision sequentially.
@@ -18,3 +22,6 @@ Table of Date and Summary of Major change and who reviewed.
 - Tests and Results
 - Opens and Future features
 - Implementation
+
+## Introduction
+
