@@ -35,3 +35,8 @@ equal. Some dashboards are for ourselves. Some are for customers. Think about
 the audience as you develop the dashboards. Secondary note, internal dashboards
 do not mean bad or poor quality dashboards. The better the tool the happier the
 dev.
+
+> [!IMPORTANT] FOLLOW UP
+> For customer facing dashboards it should be easy to use and quick to find.
+> There is a difference between a dashboard to communicate narrative vs useful
+> for actioning in a crisis.
