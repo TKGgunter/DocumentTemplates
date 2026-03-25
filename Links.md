@@ -54,3 +54,15 @@ gnuplot:
 
 XDG Desktop Portal
     https://flatpak.github.io/xdg-desktop-portal/docs/index.html
+
+ User Facing API
+    https://rfd.shared.oxide.computer/rfd/0004
+
+Futurelock
+    https://rfd.shared.oxide.computer/rfd/0609
+
+ Live Migration and Monotonic Time
+    https://rfd.shared.oxide.computer/rfd/0358
+
+ Minibar Manufacturing Tester
+    https://rfd.shared.oxide.computer/rfd/0363
