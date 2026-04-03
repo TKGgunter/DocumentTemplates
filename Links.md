@@ -66,3 +66,6 @@ Futurelock
 
  Minibar Manufacturing Tester
     https://rfd.shared.oxide.computer/rfd/0363
+
+Wasm even faster:
+    https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/

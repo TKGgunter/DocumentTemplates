@@ -3,11 +3,16 @@
 visibility: <(public|confidential)>
 author(s): <single author or List sorted alphabetically>
 tags: <list of tags>
+**Change History** (This could be replaced by github for doc reviews)
+Table of Date and Summary of Major change and who reviewed.
+
+> [!WARNING] Warning
+> What is the point of this doc?
 
 # Title
+The Title should set expectations for the document. It should provide
+the topic of discussion. Its phasing should be considered to elicit buy in.
 
-**Change History** (Not this could be replaced by github for doc reviews)
-Table of Date and Summary of Major change and who reviewed.
 
 ## Outline
 - Background and Motivation
@@ -24,4 +29,13 @@ Table of Date and Summary of Major change and who reviewed.
 - Implementation
 
 ## Introduction
+The introduction should frame the document. It should provide high level
+context, provide a reason for why the document exists, the problem the document
+is trying to solve. Lastly this section should tell the reader what to expect
+from the document and make requests of the reader.
 
+## Context/Problem statement
+Some times a dedicated section is needed to properly contextualize the problem.
+The nature of this section depends on the specifics of the document. 
+
+## <Body>

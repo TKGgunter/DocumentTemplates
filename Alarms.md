@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Writing Alarms
 
 ## Naming
