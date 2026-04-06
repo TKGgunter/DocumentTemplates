@@ -69,3 +69,6 @@ Futurelock
 
 Wasm even faster:
     https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+
+Nvim 0.12
+    https://dotfiles.substack.com/p/whats-new-in-neovim-012
