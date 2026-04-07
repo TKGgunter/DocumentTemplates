@@ -72,3 +72,6 @@ Wasm even faster:
 
 Nvim 0.12
     https://dotfiles.substack.com/p/whats-new-in-neovim-012
+
+Blog by dbreunig
+    https://www.dbreunig.com
