@@ -31,18 +31,25 @@ reducing risks.
 
 ## Goals update
 
-### Goal #N
+### Goal <Name of Goal> - <Link to goals details> - <Expected Completion date> - <Current Status [GREEN|YELLOW|RED] >
 
 Describe why this goal is important, the current status of the goal, how close
 the goal is to completion, and current blockers. Additionally, define what
 completion means.
 
+> [!NOTE] NOTE on Goal/Project Status
+> GREEN - Mean on track for completion by the expected date
+> YELLOW - The project is experiencing significant blockers and is expect to turn RED is not addressed
+> RED - The project is not expected to complete at the expected due date.
+
 
 ## Projects in-flight
 
-### Project #N
+### Project  <Name of Project> - <Link to goals details> - <Expected Completion date> - <Current Status [GREEN|YELLOW|RED] >
 
-See goals section.
+Describe why this goal is important, the current status of the project, how close
+the project is to completion, and current blockers. Additionally, define what
+completion means.
 
 
 ## Appendix
