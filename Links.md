@@ -75,3 +75,6 @@ Nvim 0.12
 
 Blog by dbreunig
     https://www.dbreunig.com
+
+AWS Best Practices
+    https://aws-observability.github.io/observability-best-practices/guides/
