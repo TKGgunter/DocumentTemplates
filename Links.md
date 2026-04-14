@@ -78,3 +78,6 @@ Blog by dbreunig
 
 AWS Best Practices
     https://aws-observability.github.io/observability-best-practices/guides/
+
+Marc Booker blog
+    https://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html
