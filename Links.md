@@ -81,3 +81,15 @@ AWS Best Practices
 
 Marc Booker blog
     https://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html
+
+Github stack
+    https://github.github.com/gh-stack/
+
+UV python tool
+    https://docs.astral.sh/uv/getting-started/help/
+
+cargo tool
+    https://doc.rust-lang.org/cargo/index.html
+
+rustc tool
+    https://doc.rust-lang.org/rustc/what-is-rustc.html
