@@ -93,3 +93,6 @@ cargo tool
 
 rustc tool
     https://doc.rust-lang.org/rustc/what-is-rustc.html
+
+simdutf - lib to provide fast unicode functions using simd
+    https://github.com/simdutf/simdutf
