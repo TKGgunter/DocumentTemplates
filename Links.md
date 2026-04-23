@@ -96,3 +96,7 @@ rustc tool
 
 simdutf - lib to provide fast unicode functions using simd
     https://github.com/simdutf/simdutf
+
+About the bluesky outage
+    https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2
+    https://surfingcomplexity.blog/2026/04/12/thoughts-on-the-bluesky-public-incident-write-up
