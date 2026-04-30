@@ -42,10 +42,12 @@ The nature of this section depends on the specifics of the document.
 
 ---
 Something from other team member:
--Opens with context/history, then makes a clear case for why the status quo is insufficient
+- Opens with context/history, then makes a clear case for why the status quo is insufficient
 - Uses a direct, opinionated tone -- "this has been abused", "for hothering" ...
 - Structures with clear problem statement -> background -> proposed solution -> implications
 - explains the "why" deeply before the "what"
 - uses inline technical detail but always ties it back to operational impact
 - uses faq sections for anticipated pushback
 - calls out past technical debt
+
+[ TODO -- for some docs there should be check lists instead of templates. Things to think about but not nessearily include. ]
