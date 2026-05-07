@@ -103,3 +103,6 @@ About the bluesky outage
 
 Art Station
     https://www.artstation.com/?sort_by=community&dimension=all
+
+Etags in S3
+    https://docs.aws.amazon.com/sdk-for-swift/latest/api/awss3/documentation/awss3/s3clienttypes/object/etag/
