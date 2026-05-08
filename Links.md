@@ -106,3 +106,6 @@ Art Station
 
 Etags in S3
     https://docs.aws.amazon.com/sdk-for-swift/latest/api/awss3/documentation/awss3/s3clienttypes/object/etag/
+
+IEEE Software Doc Specs
+    http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf
