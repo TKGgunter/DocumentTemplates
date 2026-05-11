@@ -109,3 +109,10 @@ Etags in S3
 
 IEEE Software Doc Specs
     http://www.math.uaa.alaska.edu/~afkjm/cs401/IEEE830.pdf
+
+Tekken stat site
+    https://ewgf.gg
+
+Google Borg
+    https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf
+
