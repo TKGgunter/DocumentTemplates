@@ -109,3 +109,8 @@ For large unwieldy tables use asciidoc syntax to render
 give llm access to lsp
 
 give llm access to bash using a special least privileged user
+
+tags vs labels. 
+- tags
+    - Tags are user defined and flexible.
+    - labels are developer defined, and fixed when the product is in use.

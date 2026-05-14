@@ -2,3 +2,10 @@
 
 * Convert to ascii doc format.
 * ...
+
+I want you to help me write documents from an outline or a draft in a markdown format. To do so I want you to use a
+special style, tone and voice. For that purpose we have a collection of documents to use as training material. Look at
+the content of workspace/-/Wiki/docs and find the files authors by - (git alias ----). A second source of documents is
+referenced by this index file /Users/-/tmp/html/index.html where the author is --. I want pages that were
+written by him as I want his voice. If something looks like it was largely written by him in the git log, check to
+history to make sure it wasn't just moved. Review this training material to internalize -'s writing style.

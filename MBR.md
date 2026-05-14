@@ -31,7 +31,7 @@ reducing risks.
 
 ## Goals update
 
-### Goal <Name of Goal> - <Link to goals details> - <Expected Completion date> - <Current Status [GREEN|YELLOW|RED] >
+### Goal \<Name of Goal> - \<Link to goals details> - \<Expected Completion date> - \<Current Status [GREEN|YELLOW|RED] >
 
 Describe why this goal is important, the current status of the goal, how close
 the goal is to completion, and current blockers. Additionally, define what
@@ -45,7 +45,7 @@ completion means.
 
 ## Projects in-flight
 
-### Project  <Name of Project> - <Link to goals details> - <Expected Completion date> - <Current Status [GREEN|YELLOW|RED] >
+### Project  \<Name of Project> - \<Link to goals details> - \<Expected Completion date> - \<Current Status [GREEN|YELLOW|RED] >
 
 Describe why this goal is important, the current status of the project, how close
 the project is to completion, and current blockers. Additionally, define what
@@ -58,6 +58,7 @@ Adoption metrics, service health metrics, road map, operation costs.
 
 > [!NOTE] NOTE:
 > - Short names for project ideas.
->   - If there is a set of over arching themes in the projects, and there should be the prefix of the short hand should be the same.
+>   - If there is a set of over arching themes in the projects, and there
+>     should be the prefix of the short hand should be the same.
 >   - The post-fix indicates the specific project
 > - Calendar of product GA dates

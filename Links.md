@@ -116,3 +116,5 @@ Tekken stat site
 Google Borg
     https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf
 
+web.dev
+    https://web.dev/

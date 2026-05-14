@@ -11,7 +11,12 @@ tags: []
 ## 
 
 ___
+> [!NOTE]
 > There seems to be a distinct types of alarms.
 > - code health alarms alarms alarms alarms
 >   - Is the code running as expected, is it crashing, using more resources, or behaving in a bizarre way.
+>
+> I want alarms and runbooks should live in the same place. When ever the
+> alarms change I want the runbooks to be checked and re-generated.
+
 
