@@ -118,3 +118,6 @@ Google Borg
 
 web.dev
     https://web.dev/
+
+basecamp handbook for employees
+    https://github.com/basecamp/handbook
